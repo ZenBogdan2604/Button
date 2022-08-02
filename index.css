@@ -1,0 +1,26 @@
+*{
+	margin: 0%;
+	padding: 0%;
+	list-style: none;
+}
+.dws {
+	position: absolute;
+	top: 5%;
+	left: 83%;
+}
+
+.btn {
+	font-size: 20px;
+	font-family: monospace;
+	color: #fff;
+	background: linear-gradient(to left, #0D606F, #dfcf40, #0D606F);
+	text-decoration: none;
+	padding: 20px 70px;
+	border-radius: 10px;
+	background-size: 200%;
+	transition: .5s;
+}
+
+.btn:hover {
+	background-position: right;
+} 
